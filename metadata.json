@@ -1,0 +1,7 @@
+{
+  "name": "Khalby - The Golden",
+  "description": "Plateforme musicale officielle et immersive de l'artiste Khalby : lecteur audio & vidéo haute fidélité, galerie interactive et cartes collector The Golden.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
